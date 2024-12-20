@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BackgroundMusic.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GridGenerator.cs" Line="246" Column="34" />
+      <File FileName="Assets/matchFinder.cs" Line="49" Column="58" />
+      <File FileName="Assets/Scripts/Fruits.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TEST.cs" Line="32" Column="27" />
+      <File FileName="Assets/ScoreCalculator.cs" Line="1" Column="1" />
+      <File FileName="Assets/fruitCounter.cs" Line="36" Column="44" />
+      <File FileName="Assets/BackgroundMusic.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3e2063b3-5a78-45a3-ba2b-ca946fffcc6b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
