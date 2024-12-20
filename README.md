@@ -12,7 +12,9 @@ Welcome to **Connect Three**, a delightful Android game with a fun picnic theme!
 ## Level Design
 
 ### Level 1
-The probability mechanics were implemented exactly as specified.
+For horizontal matches, the probability of a new fruit is 60% of the probability of the fruit directly below the matched fruit.
+For vertical matches, the probability of the first new fruit will be 40% of the probability of the fruit directly below the matched fruit and the probability of every subsequent fruit will be 60% of the last generated fruit.
+If there are no fruits below the matches fruit(s), then a random generation is applied
 
 ### Level 2
 A different approach was used:
