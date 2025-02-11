@@ -1,4 +1,4 @@
-# Connect Three: Android Game with a Picnic Theme
+# Connect-Three: Android Game with a Picnic Theme
 
 Welcome to **Connect Three**, a delightful Android game with a fun picnic theme! 🧺🍓
 
