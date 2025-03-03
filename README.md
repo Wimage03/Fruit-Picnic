@@ -2,6 +2,9 @@
 
 Welcome to **Connect Three**, a delightful Android game with a fun picnic theme! 🧺🍓
 
+# Gameplay
+[https://github.com/user-attachments/assets/e11c59fe-5603-447e-b71d-5f5937af4ac5](https://github.com/user-attachments/assets/07071672-b4fe-4c3a-9a6e-3ce9ded95765)
+
 ## How to Play
 1. Move the `.apk` file to your Android phone.
 2. Install and run the game.
